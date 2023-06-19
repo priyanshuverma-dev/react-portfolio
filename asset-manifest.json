@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.58462fbc.css",
+    "main.js": "/react-gh-pages/static/js/main.ae5fddf9.js",
+    "static/media/u-said-it-v13-1167.mp3": "/react-gh-pages/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/react-gh-pages/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/react-gh-pages/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/profile-img.png": "/react-gh-pages/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.58462fbc.css.map": "/react-gh-pages/static/css/main.58462fbc.css.map",
+    "main.ae5fddf9.js.map": "/react-gh-pages/static/js/main.ae5fddf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.ae5fddf9.js"
+  ]
+}
