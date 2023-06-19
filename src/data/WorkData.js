@@ -6,7 +6,7 @@ export const Work = [
     name: "Gita Mobile",
     description:
       "Mobile application allows you to read and understand power og Bhagavd Gita. ",
-    tags: ["Flutter", "Getx", "fMongoDB"],
+    tags: ["Flutter", "Getx", "MongoDB"],
 
     demo: "https://github.com/codebyps/GITAMOBILE/releases",
     github: "https://github.com/codebyps/GITAMOBILE",
@@ -52,14 +52,14 @@ export const Work = [
     github: "https://github.com/codebyps/delta",
   },
 
-  //   {
-  //     id: 6,
-  //     name: "Responsive Navigation Menu",
-  //     description:
-  //       "A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-  //     tags: ["react", "react-router", "css"],
+  {
+    id: 6,
+    name: "Personal Portfolio",
+    description:
+      "A reponsive component in ReactJS with react-router functionalities. Built from scratch.",
+    tags: ["react", "react-router", "css"],
 
-  //     demo: "http://react-responsive-navbar-codebucks27.vercel.app/",
-  //     github: "https://github.com/codebucks27/React-responsive-navbar",
-  //   },
+    demo: "https://icy-stone-02f90c800.3.azurestaticapps.net",
+    github: "https://somveers.me",
+  },
 ];
